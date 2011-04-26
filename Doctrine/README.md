@@ -11,6 +11,8 @@ usage:
 
 ``` php
 
+    <?php
+
     require_once __DIR__.'/silex.phar';
     require_once __DIR__.'/silex_doctrine_extension.phar';
 
