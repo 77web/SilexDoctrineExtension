@@ -1,0 +1,9 @@
+[submodule "vendor/Symfony/Component/HttpKernel"]
+	path = vendor/Symfony/Component/HttpKernel
+	url = https://github.com/symfony/HttpKernel
+[submodule "vendor/Symfony/Component/Finder"]
+	path = vendor/Symfony/Component/Finder
+	url = https://github.com/symfony/Finder
+[submodule "vendor/Symfony/Component/ClassLoader"]
+	path = vendor/Symfony/Component/ClassLoader
+	url = https://github.com/symfony/ClassLoader
