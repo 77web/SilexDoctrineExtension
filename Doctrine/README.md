@@ -1,4 +1,5 @@
-== DoctrineExtension ==
+DoctrineExtension
+=================
 
 ``` bash
 
