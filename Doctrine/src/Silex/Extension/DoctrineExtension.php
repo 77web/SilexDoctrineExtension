@@ -131,7 +131,7 @@ class DoctrineExtension implements ExtensionInterface
                             $chain->addDriver($driver, $entity['namespace']);
                             break;
                         default:
-                            throw new \InvalidArgumentException(sprintf('"%s" is not a recognized driver', $type));
+                            throw new \InvalidArgumentException(sprintf('"%s" is not a recognized driver', $entity['type']));
                             break;
                     }
                 }
